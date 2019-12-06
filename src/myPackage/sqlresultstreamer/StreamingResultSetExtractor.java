@@ -1,4 +1,4 @@
-package com.redrobin.sqlresultstreamer;
+package myPackage.sqlresultstreamer;
 
 import java.io.OutputStream;
 import java.io.PrintWriter;
